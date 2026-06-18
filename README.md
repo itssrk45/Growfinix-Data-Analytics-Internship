@@ -82,4 +82,4 @@ Analyze customer reviews and classify them into Positive, Negative, or Neutral s
 Growfinix Data Analytics Internship Program
 
 ## Author
-**Srikanth**
+**J Srikanth**
